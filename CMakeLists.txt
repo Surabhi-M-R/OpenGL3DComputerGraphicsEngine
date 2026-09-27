@@ -1,7 +1,7 @@
 # This cmake is written with reference from Glitter project : https://github.com/Polytonic/Glitter/blob/master/CMakeLists.txt ---> (ref.A)
 # and learnopengl.org project : https://github.com/JoeyDeVries/LearnOpenGL/blob/master/CMakeLists.txt ---> (ref.B), cmake files.
 
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.5)
 project(opengl_playground)
 
 # althought this finding OpenGL and X11 will be also done by glfw library during its compilation

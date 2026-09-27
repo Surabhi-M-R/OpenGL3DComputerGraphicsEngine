@@ -109,3 +109,8 @@ _deps
 
 
 # End of https://www.gitignore.io/api/c,c++,visualstudiocode,cmake
+
+# My learning notes
+project_explanation.md
+detailed_explanation.md
+file_structure_explanation.md
